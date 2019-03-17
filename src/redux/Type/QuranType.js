@@ -1,0 +1,3 @@
+export const GET_QURAN_REQUEST = 'GET_QURAN_REQUEST'
+export const GET_QURAN_DONE = 'GET_QURAN_DONE'
+export const GET_QURAN_ERROR = 'GET_QURAN_ERROR'
